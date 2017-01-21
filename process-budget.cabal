@@ -3,7 +3,7 @@ version:             0.1.0.0
 synopsis:            A breakdown of monthly spending by category
 description:         Outputs a breakdown of monthly spending by category
 homepage:            https://github.com/cphang99/budget_process.git
-license:             BSD3
+license:             MIT
 license-file:        LICENSE
 author:              C.Phang
 maintainer:          cphang99@gmail.com
